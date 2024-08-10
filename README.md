@@ -1,2 +1,1 @@
-Playing with Kafka and Confluent with this tutorial
-- https://www.youtube.com/watch?v=jItIQ-UvFI4
+Trying to make this project run fully locally. Shifting from Confluent Cloud to Quix.io. Will try to make use of GitHub actions somehow.
